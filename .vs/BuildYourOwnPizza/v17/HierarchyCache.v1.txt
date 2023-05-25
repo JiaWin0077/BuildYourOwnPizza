@@ -1,0 +1,410 @@
+﻿++Solution 'BuildYourOwnPizza' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:BuildYourOwnPizza.sln
+++BuildYourOwnPizza
+i:{00000000-0000-0000-0000-000000000000}:BuildYourOwnPizza
+++Dependencies
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:>166
+++Analyzers
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:analyzers
+++Frameworks
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:frameworks
+++Properties
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\properties\
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\properties\
+++Resources.resx
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\properties\resources.resx
+++Images
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\images\
+++Pizzaa-02.png
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\images\pizzaa-02.png
+++Prices
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\properties\prices\
+++Bacon.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\bacon.txt
+++Cheese.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\cheese.txt
+++FlatbreadCrust.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\flatbreadcrust.txt
+++Mushrooms.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\mushrooms.txt
+++Olives.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\olives.txt
+++PanCrust.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\pancrust.txt
+++Pepperoni.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\pepperoni.txt
+++Peppers.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\peppers.txt
+++Sauce.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\sauce.txt
+++StuffedCrust.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\stuffedcrust.txt
+++ThinCrust.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\thincrust.txt
+++Bacon.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bacon.cs
+++Cheese.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\cheese.cs
+++Crust.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\crust.cs
+++CrustFactory.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\crustfactory.cs
+++CrustFlat.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\crustflat.cs
+++CrustIF.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\crustif.cs
+++CrustPan.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\crustpan.cs
+++CrustStuffed.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\cruststuffed.cs
+++CrustThin.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\crustthin.cs
+++Mushrooms.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\mushrooms.cs
+++ObserverableIF.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\observerableif.cs
+++ObserverIF.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\observerif.cs
+++Olives.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\olives.cs
+++Pepperoni.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\pepperoni.cs
+++Peppers.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\peppers.cs
+++Pizza.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\pizza.cs
+++PizzaBuilder.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\pizzabuilder.cs
+++PizzaBuilder.Designer.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\pizzabuilder.designer.cs
+++PizzaBuilder.resx
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\pizzabuilder.resx
+++PizzaWrapper.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\pizzawrapper.cs
+++PricesEditor.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\priceseditor.cs
+++Program.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\program.cs
+++ReadWrite.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\readwrite.cs
+++Sauce.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\sauce.cs
+++Spinach.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\spinach.cs
+++Spinach.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\spinach.txt
+++ToppingsAbs.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\toppingsabs.cs
+++ToppingsIF.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\toppingsif.cs
+++Welcome.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\welcome.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++System.Windows.Forms.Analyzers
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.0\analyzers\dotnet\system.windows.forms.analyzers.dll
+++System.Windows.Forms.Analyzers.CSharp
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.0\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
+++Microsoft.NETCore.App
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\microsoft.netcore.app
+++Microsoft.WindowsDesktop.App.WindowsForms
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\microsoft.windowsdesktop.app.windowsforms
+++Resources.Designer.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\properties\resources.designer.cs
+++PricesEditor.Designer.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\priceseditor.designer.cs
+++PricesEditor.resx
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\priceseditor.resx
+++Welcome.Designer.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\welcome.designer.cs
+++Welcome.resx
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\welcome.resx
+++bin
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\
+++Debug
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\
+++net6.0-windows
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\
+++ref
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\ref\
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\ref\
+++BuildYourOwnPizza.deps.json
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\buildyourownpizza.deps.json
+++BuildYourOwnPizza.dll
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\buildyourownpizza.dll
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\ref\buildyourownpizza.dll
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.dll
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\ref\buildyourownpizza.dll
+++BuildYourOwnPizza.exe
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\buildyourownpizza.exe
+++BuildYourOwnPizza.pdb
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\buildyourownpizza.pdb
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.pdb
+++BuildYourOwnPizza.runtimeconfig.json
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\bin\debug\net6.0-windows\buildyourownpizza.runtimeconfig.json
+++obj
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\
+++BuildYourOwnPizza.csproj.nuget.dgspec.json
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\buildyourownpizza.csproj.nuget.dgspec.json
+++BuildYourOwnPizza.csproj.nuget.g.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\buildyourownpizza.csproj.nuget.g.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\buildyourownpizza.csproj.nuget.g.props
+++BuildYourOwnPizza.csproj.nuget.g.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\buildyourownpizza.csproj.nuget.g.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\buildyourownpizza.csproj.nuget.g.targets
+++project.assets.json
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\project.assets.json
+++project.nuget.cache
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\project.nuget.cache
+++InProcessTempFiles
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\inprocesstempfiles\
+++TempPE
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\temppe\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\apphost.exe
+++BuildYourOwnPizza.AssemblyInfo.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.assemblyinfo.cs
+++BuildYourOwnPizza.AssemblyInfoInputs.cache
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.assemblyinfoinputs.cache
+++BuildYourOwnPizza.assets.cache
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.assets.cache
+++BuildYourOwnPizza.csproj.AssemblyReference.cache
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.csproj.assemblyreference.cache
+++BuildYourOwnPizza.csproj.CoreCompileInputs.cache
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.csproj.corecompileinputs.cache
+++BuildYourOwnPizza.csproj.FileListAbsolute.txt
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.csproj.filelistabsolute.txt
+++BuildYourOwnPizza.csproj.GenerateResource.cache
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.csproj.generateresource.cache
+++BuildYourOwnPizza.designer.deps.json
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.designer.deps.json
+++BuildYourOwnPizza.designer.runtimeconfig.json
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.designer.runtimeconfig.json
+++BuildYourOwnPizza.g.resources
+++BuildYourOwnPizza.GeneratedMSBuildEditorConfig.editorconfig
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.generatedmsbuildeditorconfig.editorconfig
+++BuildYourOwnPizza.genruntimeconfig.cache
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.genruntimeconfig.cache
+++BuildYourOwnPizza.GlobalUsings.g.cs
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.globalusings.g.cs
+++BuildYourOwnPizza.PizzaBuilder.resources
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.pizzabuilder.resources
+++BuildYourOwnPizza.PricesEditor.resources
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.priceseditor.resources
+++BuildYourOwnPizza.Properties.Resources.resources
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.properties.resources.resources
+++BuildYourOwnPizza.Welcome.resources
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\buildyourownpizza.welcome.resources
+++Properties.Resources.Designer.cs.dll
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\temppe\properties.resources.designer.cs.dll
+++Resource1.Designer.cs.dll
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\obj\debug\net6.0-windows\temppe\resource1.designer.cs.dll
+++Imports
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:>373
+++Sdk.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Microsoft.Common.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Microsoft.NuGet.ImportBefore.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Windows.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windows.targets
+++Microsoft.NET.Sdk.WindowsDesktop.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NuGet.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.targets
+++Microsoft.WinFX.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.winfx.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++BuildYourOwnPizza.csproj.user
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\users\karme\source\repos\buildyourownpizza\buildyourownpizza\buildyourownpizza.csproj.user
+++Microsoft.NET.props
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{9ebac7af-8231-4147-943b-dc0f09c19fdb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
